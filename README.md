@@ -12,6 +12,17 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a>
   </p>
+  
+  <h3 align="center">IDE:</h3>
+    <p align="center">
+      <a href="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudio" width="40" height="40"/> 
+      </a>
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+      </a>
+    </p>
+  
   <h3 align="center">Code:</h3>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
