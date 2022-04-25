@@ -2,7 +2,7 @@
 <h3 align="center">A developer web student</h3>
 
 <h2 align="center">Skills:</h2>  
-<table display="block" margin="auto">
+<table margin-left="50%">
   <tr>
     <th colspan="5">Code</th>
   </tr>
