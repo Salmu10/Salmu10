@@ -1,5 +1,5 @@
 <h1 align="left">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
-<h2 align="left">About me:</h2>
+<h2 align="left">🧑🏽 About me:</h2>
   <ul>
     <li>👨🏼‍🎓 Game design.</li>
     <li>👨🏼‍🎓 Animation 2D/3D.
