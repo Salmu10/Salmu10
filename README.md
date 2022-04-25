@@ -1,7 +1,12 @@
 <h1 align="left">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
-<h4 align="left">A developer web student</h4>
+<h2 align="left">About me:</h2>
+  <ul>
+    <li>👨🏼‍🎓 Game design.</li>
+    <li>👨🏼‍🎓 Animation 2D/3D.
+    <li>📝 Web developer student.</li>
+  </ul>
 
-<h2 align="left">Skills:</h2>
+<h2 align="left">🛠 Skills:</h2>
 
 <table>
   <tr>
