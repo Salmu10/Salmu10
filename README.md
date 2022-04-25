@@ -6,6 +6,17 @@
   
   <h3 align="center">Code:</h3>
     <p align="center">
+
+    </p>
+ </p>
+  
+<table>
+  <tr>
+    <th>Code</th>
+  </tr>
+  
+  <tr>
+    <th>
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
       </a> 
@@ -24,16 +35,15 @@
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
       </a> 
-    </p>
- </p>
+    </th>
+  </tr>
   
-<table> 
   <tr>
-    <th colspan="1">Design</th>
-    <th colspan="1">IDE</th>
-    <th colspan="1">DataBase</th>
-    <th colspan="1">Game Engines</th>
-    <th colspan="1">Others</th>
+    <th>Design</th>
+    <th>IDE</th>
+    <th>DataBase</th>
+    <th>Game Engines</th>
+    <th>Others</th>
   </tr>
   
   <tr>
