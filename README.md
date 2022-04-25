@@ -45,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
       </a>
     </th>
-    <th colspan="3">
+    <th>
       <a href="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/> 
       </a>
