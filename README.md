@@ -3,7 +3,7 @@
 
 <h2 align="center">Skills:</h2>
 
-<table margin="auto">
+<table display="block" margin-left="500px">
   <tr>
     <th colspan="5">Code</th>
   </tr>
