@@ -1,10 +1,10 @@
-<!-- <body text-align="center"> -->
+<body text-align="center">
   <h1 align="center">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
   <h3 align="center">A developer web student</h3>
 
   <h2 align="center">Skills:</h2>
 
-<table>
+<table margin="auto">
   <tr>
     <th colspan="5">Code</th>
   </tr>
@@ -80,7 +80,7 @@
     </th>    
   </tr>
 </table>
-<!-- </body> -->
+</body>
   
 
 
