@@ -1,5 +1,5 @@
 <h1 align="left">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
-<h3 align="left">A developer web student</h3>
+<h4 align="left">A developer web student</h4>
 
 <h2 align="left">Skills:</h2>
 
