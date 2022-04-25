@@ -1,18 +1,10 @@
 <h1 align="center">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
 <h3 align="center">A developer web student</h3>
 
-<h2 align="center">Skills:</h2>
-<p align="center"> 
-  
-  <h3 align="center">Code:</h3>
-    <p align="center">
-
-    </p>
- </p>
-  
+<h2 align="center">Skills:</h2>  
 <table>
   <tr>
-    <th>Code</th>
+    <th colspan="5">Code</th>
   </tr>
   
   <tr>
