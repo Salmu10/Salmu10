@@ -4,10 +4,10 @@
 <h2 align="center">Skills:</h2>
 <p align="center"> 
   <h3 align="center">Design:</h3>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <a align="center" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <a align="center" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
   <h3 align="center">Code:</h3>
