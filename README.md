@@ -22,10 +22,21 @@
         <img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-icon.svg" alt="brackets" width="40" height="40"/> 
       </a>
       <a href="https://camo.githubusercontent.com/c1ee7754005a09d1ce15d880e57cf8949b4c41f5b226bdf2eb5f9ccc2716e6b8/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3633312f3732302f706e672d7472616e73706172656e742d65636c697073652d666f756e646174696f6e2d696e74656772617465642d646576656c6f706d656e742d656e7669726f6e6d656e742d6365796c6f6e2d6a6176612d65636c697073652d6d697363656c6c616e656f75732d6c6f676f2d656c6563747269632d626c75652d7468756d626e61696c2e706e67" target="_blank" rel="noreferrer"> 
-        <img src="https://camo.githubusercontent.com/c1ee7754005a09d1ce15d880e57cf8949b4c41f5b226bdf2eb5f9ccc2716e6b8/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3633312f3732302f706e672d7472616e73706172656e742d65636c697073652d666f756e646174696f6e2d696e74656772617465642d646576656c6f706d656e742d656e7669726f6e6d656e742d6365796c6f6e2d6a6176612d65636c697073652d6d697363656c6c616e656f75732d6c6f676f2d656c6563747269632d626c75652d7468756d626e61696c2e706e67" alt="eclipse" width="50" height="50"/> 
+        <img src="https://camo.githubusercontent.com/c1ee7754005a09d1ce15d880e57cf8949b4c41f5b226bdf2eb5f9ccc2716e6b8/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3633312f3732302f706e672d7472616e73706172656e742d65636c697073652d666f756e646174696f6e2d696e74656772617465642d646576656c6f706d656e742d656e7669726f6e6d656e742d6365796c6f6e2d6a6176612d65636c697073652d6d697363656c6c616e656f75732d6c6f676f2d656c6563747269632d626c75652d7468756d626e61696c2e706e67" alt="eclipse" width="40" height="40"/> 
       </a>
     </p>
   
+    <h3 align="center">Design:</h3>
+      <p align="center">
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+        </a>
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+        </a>
+      </p>
+  
+ 
   <h3 align="center">Code:</h3>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
