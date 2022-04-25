@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
-<h3 align="center">A developer web student</h3>
+<h1 align="left">Welcome to my GitHub, I'm Salva Muñoz Úbeda</h1>
+<h3 align="left">A developer web student</h3>
 
-<h2 align="center">Skills:</h2>
+<h2 align="left">Skills:</h2>
 
-<table display="block" margin-left="500px">
+<table>
   <tr>
     <th colspan="5">Code</th>
   </tr>
