@@ -92,14 +92,14 @@
 </table>
 
 <!-- <h2 align="left">🧑🏽 Stats:</h2> -->
-<!-- <div display="block"> -->
-<!--   <div display="block" float="left"> -->
+<div display="block">
+  <div display="block" float="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmu10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--   </div> -->
+  </div>
 <!--   <div display="block" float="right"> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmu10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--   </div> -->
-<!-- </div> -->
+</div>
 
 
 <!-- ![Salva GitHub stats](https://github-readme-stats.vercel.app/api?username=aSalmu10&show_icons=true&theme=dark) -->
