@@ -8,7 +8,7 @@
 
 <h2 align="left">🛠 Skills:</h2>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="5">Code</th>
   </tr>
