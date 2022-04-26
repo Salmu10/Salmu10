@@ -91,6 +91,8 @@
   </tr>
 </table>
 
+<h2 align="left">🛠 Stats:</h2>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmu10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmu10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
