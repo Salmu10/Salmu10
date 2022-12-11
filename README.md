@@ -43,7 +43,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
       </a>
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="60" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="80" height="40"/> 
       </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="60" height="40"/> 
