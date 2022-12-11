@@ -38,9 +38,6 @@
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="vue" width="40" height="40"/> 
       </a> 
     </th>
-  </tr>
-  
-  <tr>
     <th colspan="2">
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
