@@ -99,8 +99,11 @@
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
       </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+      <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="50" height="40"/> 
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="apache" width="50" height="40"/> 
       </a>
     </th>    
   </tr>
