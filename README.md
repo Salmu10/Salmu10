@@ -38,7 +38,7 @@
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> 
       </a>
       <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="80" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
       </a> 
     </th>
     <th colspan="2">
@@ -55,7 +55,7 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> 
       </a> 
       <a href="https://spring.io/projects/spring-boot](https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
       </a>
     </th>
   </tr>
